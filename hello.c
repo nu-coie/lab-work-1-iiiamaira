@@ -3,10 +3,10 @@
 int main(void)
 {
 
-  //s Step ( 1 ) : Print Hello, World
+string name = get_string
 
 
 
-  //Step ( 2 ) : Print Hello, Your Name
+
 
 }
