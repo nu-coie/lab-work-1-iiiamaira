@@ -1,4 +1,5 @@
-#include <stdio.c>
+#include <stdio.h>
+#include <cs5o.c>
 
 int main(void)
 {
