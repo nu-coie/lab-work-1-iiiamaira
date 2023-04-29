@@ -4,9 +4,13 @@
 
 int main(void)
 {
-// Accept Input From user (char), where (a) stands for "Addition", (m) for "Multiplications," and (d) for "Division,"
-  
+    int x = 4 ;
+    int y = 2 ;
+    printf("%i\n", x+y) ;
+    printf("%i\n", x-y) ;
+    printf("%i\n", x*y) ;
+    printf("%i\n", x/y ) ;
 
-  
+
 
 }
